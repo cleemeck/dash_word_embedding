@@ -1,0 +1,24 @@
+body {
+    background-color: #F5F2F1;
+    font-family: Verdana, serif;
+    color: #1E1D22;
+    padding: 0.5rem;
+}
+
+.def-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0.5rem;
+}
+
+.word-regular {
+    display: flex;
+    padding: 0.5rem;
+}
+
+.word-regular:hover {
+    background-color: #1E1D22;
+    color: #F5F2F1;
+}
+
